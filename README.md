@@ -1,7 +1,7 @@
 
 ## Badges
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
 
 # Python Basic Course in PLATZI
 
